@@ -1,3 +1,8 @@
+
+-- READ-ME -- 
+
+-- Queries that could be used to interrogate the database --
+
 -- From albums,
 -- filter where id is '2',
 -- and select only values for the columns id, title and release_year.
